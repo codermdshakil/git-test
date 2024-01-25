@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.title{
+    font-size: 35px;
+    text-align: center;
+    padding: 10px 0px;
+    color: blueviolet;
+}
+
+.h_title{
+    font-weight:bolder;
+    color: purple;
+}
+
+.blogs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.shakil{
+    padding: 10px;
+    background-color: lightblue;
+}
+
+
